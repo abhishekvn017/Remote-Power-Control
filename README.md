@@ -239,20 +239,7 @@ sudo systemctl status ssh
 - **API errors**: Check browser console (F12) for details
 - **Module not found**: Run `npm install` again
 
----
 
-## 🔒 Security Considerations
-
-> ⚠️ **For Development Use**: This application stores SSH passwords in memory and is designed for home/lab networks.
-
-**For Production, consider implementing:**
-
-- ✅ SSH key authentication instead of passwords
-- ✅ HTTPS/TLS encryption
-- ✅ Authentication for web interface
-- ✅ Database for persistent device storage
-- ✅ Environment variables for sensitive configuration
-- ✅ Rate limiting for API endpoints
 
 ---
 
@@ -280,44 +267,18 @@ remote-control/
 └── README.md           # This file
 ```
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch: `git checkout -b feature/amazing-feature`
-3. 💾 Commit your changes: `git commit -m 'Add amazing feature'`
-4. 📤 Push to the branch: `git push origin feature/amazing-feature`
-5. 🎉 Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Wake-on-LAN implementation inspired by network magic packet protocols
-- UI design inspired by modern glassmorphism trends
-- Built for simplifying remote laptop management
-
----
-
-## 📞 Support
-
-Having issues? Check the [Troubleshooting](#-troubleshooting) section or open an issue on GitHub.
+This project was built to simplify remote laptop management and power control over WiFi networks.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for remote laptop management**
-
-⭐ Star this repo if you find it useful!
+**Developed by V n Abhishek**
 
 </div>
