@@ -279,6 +279,6 @@ This project was built to simplify remote laptop management and power control ov
 
 <div align="center">
 
-**Developed by V n Abhishek**
+**Made with ❤️ by VN Abhishek**
 
 </div>
